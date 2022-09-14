@@ -6,8 +6,13 @@ h1 {
 }
 
 body {
+    background-image: url('images/pexels-djordje-petrovic-1416169.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
     font-size: 1em;
-}
+  }
 
 a.button {
     display:inline-block;
@@ -51,15 +56,29 @@ a {
 
 footer {
     background-color: rgba(128, 128, 128, 0.068);
-    padding: .2em 0;
+    padding: .9em 0;
     position: fixed;
     bottom: 0;
     width: 100%;
+    left: 0;
+    right: 0;
+    text-align: center;
   }
 
-footer p {
-  text-align: center;
-  font-size: 1em;
-  color: rgb(192, 188, 188);
-  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.contact {
+    
+    font-size: 1.2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #dfdddd;
+    text-decoration: none;
+}
+
+.contact:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.contact:active {
+    color: #ffffff;
+    text-decoration: none;
 }
