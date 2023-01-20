@@ -1,4 +1,4 @@
-
+![Screenshot of WR Moto](/images/wrmotoLP.png)
 
 # WR MOTO Landing Page
 
