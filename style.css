@@ -6,7 +6,7 @@ h1 {
 }
 
 body {
-    background-image: url('images/pexels-djordje-petrovic-1416169.png');
+    background-image: url('src/images/pexels-djordje-petrovic-1416169.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
